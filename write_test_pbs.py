@@ -94,7 +94,7 @@ def func(block, n_proc, GL, ND, TD):
 
 def main():
     n_proc = 12
-    GL = 2800
+    GL = 600
     NDs = [1]
     TDs = [10]
     shells = []
