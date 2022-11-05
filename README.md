@@ -2,9 +2,9 @@
  This is source code for paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0305054820302720/">Parallel iterative solution-based tabu search for the obnoxious p-median problem</a>.
 
 # Original dataset
-1. download original dataset and result from here: http://grafo-services.etsii.urjc.es/optsicom/opm/opm-files/OpM_LIB_2016.zip. (Copy this link and goto it in a new page/tab, click is invalid.)
-2. unzip dataset to "OpM_LIB_2016" in project directory "PISTS-for-OpM-master".
-3. run "python preprocess.py" to transform ".txt" files to ".csv" files.
+1. Download original dataset from here: http://grafo-services.etsii.urjc.es/optsicom/opm/opm-files/OpM_LIB_2016.zip. (Copy this link and goto it in a new page/tab, click is invalid.) Original result is here: http://grafo-services.etsii.urjc.es/optsicom/opm/.
+2. Unzip dataset to "OpM_LIB_2016" in project directory "PISTS-for-OpM-master".
+3. Run "python preprocess.py" to transform ".txt" files to ".csv" files.
 
 # How to use
 1. "run.bat" is to test a single instance on a local machine (Windows only).
