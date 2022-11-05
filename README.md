@@ -1,5 +1,5 @@
 # PISTS for OpM
- This is source code for paper "Parallel iterative solution-based tabu search for the obnoxious p-median problem".
+ This is source code for paper <a href="http://www.baidu.com/">Parallel iterative solution-based tabu search for the obnoxious p-median problem</a>
 
 1. "preprocessing.py" is to transform original dataset from ".txt" files to ".csv" files.
 2. "run.bat" is to test a single instance on a local machine (Windows only).
