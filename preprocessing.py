@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-1.download original dataset and result from this site:
-    http://grafo.etsii.urjc.es/optsicom/opm/
-2.unzip dataset to current directory
-3.run "python preprocess.py" to transform ".txt" files to ".csv" files
-"""
 import numpy as np
 import os
 import pandas as pd
